@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\ObjectPoolingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|e:\\projects\\objectpoolingtest\\assets\\spawnctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\spawnctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|E:\\Projects\\ObjectPoolingTest\\assets\\extendbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\extendbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|E:\\Projects\\ObjectPoolingTest\\assets\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|E:\\Projects\\ObjectPoolingTest\\assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|E:\\Projects\\ObjectPoolingTest\\assets\\generalsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\generalsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|E:\\Projects\\ObjectPoolingTest\\assets\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6411809-D1F4-76BD-EF90-733BB37C9564}|Assembly-CSharp.csproj|solutionrelative:assets\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnCtrl.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\SpawnCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\SpawnCtrl.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\SpawnCtrl.cs",
+              "RelativeToolTip": "Assets\\SpawnCtrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:29:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\BulletSpawner.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\BulletSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:21:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtendBehaviour.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\ExtendBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\ExtendBehaviour.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\ExtendBehaviour.cs",
+              "RelativeToolTip": "Assets\\ExtendBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:17:31.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralSingleton.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\GeneralSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\GeneralSingleton.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\GeneralSingleton.cs",
+              "RelativeToolTip": "Assets\\GeneralSingleton.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:16:24.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooter.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Shooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:54:27.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "E:\\Projects\\ObjectPoolingTest\\Assets\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner.cs",
+              "ToolTip": "E:\\Projects\\ObjectPoolingTest\\Assets\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:26:24.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
