@@ -61,10 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Data\Scripts\ExtendBehaviour.cs" />
-    <Compile Include="Assets\EnemyAppear.cs" />
     <Compile Include="Assets\_Data\Enemies\EnemyCtrl.cs" />
     <Compile Include="Assets\_Data\Scripts\Spawner.cs" />
+    <Compile Include="Assets\_Data\Scripts\PathCtrl.cs" />
+    <Compile Include="Assets\_Data\Enemies\EnemyAppear.cs" />
     <Compile Include="Assets\_Data\Bullets\SphereSpawner.cs" />
+    <Compile Include="Assets\_Data\Scripts\SpawnCtrlList.cs" />
+    <Compile Include="Assets\EnemySpawnCtrl.cs" />
     <Compile Include="Assets\_Data\Scripts\GeneralSingleton.cs" />
     <Compile Include="Assets\_Data\Bullets\BulletMovement.cs" />
     <Compile Include="Assets\_Data\Scripts\SpawnCtrl.cs" />
@@ -72,7 +75,7 @@
     <Compile Include="Assets\_Data\Bullets\BulletSpawner.cs" />
     <Compile Include="Assets\_Data\Turrets\Shooter.cs" />
     <Compile Include="Assets\_Data\Turrets\Target.cs" />
-    <Compile Include="Assets\PathCtrl.cs" />
+    <Compile Include="Assets\_Data\Enemies\EnemySpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
