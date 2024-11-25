@@ -70,6 +70,7 @@
     <Compile Include="Assets\EnemySpawnCtrl.cs" />
     <Compile Include="Assets\_Data\Scripts\GeneralSingleton.cs" />
     <Compile Include="Assets\_Data\Bullets\BulletMovement.cs" />
+    <Compile Include="Assets\MapCtrl.cs" />
     <Compile Include="Assets\_Data\Scripts\SpawnCtrl.cs" />
     <Compile Include="Assets\_Data\Bullets\BulletCtrl.cs" />
     <Compile Include="Assets\_Data\Bullets\BulletSpawner.cs" />

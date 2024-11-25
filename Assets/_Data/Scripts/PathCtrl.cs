@@ -6,22 +6,15 @@ using UnityEngine.AI;
 
 public class PathCtrl : ExtendBehaviour
 {
-    [SerializeField] protected NavMeshSurface _navSurface;
     [SerializeField] protected Transform _spawnPoint;
     [SerializeField] protected Transform _despawnPoint;
     protected override void LoadComponents()
     {
         base.LoadComponents();
-        this.LoadNavMeshSurface();
         this.LoadSpawnPoint();
         this.LoadDespawnPoint();
     }
-    protected virtual void LoadNavMeshSurface()
-    {
-        if (_navSurface != null) return;
-        _navSurface = GetComponent<NavMeshSurface>();
-        Debug.LogWarning(this.gameObject.name + " Loaded NavMeshSurface", gameObject);
-    }
+    
     protected virtual void LoadSpawnPoint()
     {
         if (_spawnPoint != null) return;

@@ -351,6 +351,7 @@
 -analyzer:"E:/2022.3.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/2022.3.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/EnemySpawnCtrl.cs"
+"Assets/MapCtrl.cs"
 "Assets/_Data/Bullets/BulletCtrl.cs"
 "Assets/_Data/Bullets/BulletMovement.cs"
 "Assets/_Data/Bullets/BulletSpawner.cs"
