@@ -5,11 +5,10 @@ using UnityEngine.PlayerLoop;
 
 public class EnemyAppear : ExtendBehaviour
 {
-    [SerializeField] EnemyCtrl _enemyCtrl;
-
-    private void FixedUpdate()
+    [SerializeField] private EnemyCtrl _enemyCtrl;
+    private void Start()
     {
-        this.Appear();
+        Appear();
     }
     protected override void LoadComponents()
     {
@@ -24,6 +23,6 @@ public class EnemyAppear : ExtendBehaviour
     }
     protected virtual void Appear()
     {
-
+        _enemyCtrl.Rigidbody.AddForce(Vector3.up*10);
     }
 }

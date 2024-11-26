@@ -7,7 +7,9 @@ using UnityEngine.AI;
 public class PathCtrl : ExtendBehaviour
 {
     [SerializeField] protected Transform _spawnPoint;
+    public Transform SpawnPoint => _spawnPoint;
     [SerializeField] protected Transform _despawnPoint;
+    public Transform DeSpawnPoint => _despawnPoint;
     protected override void LoadComponents()
     {
         base.LoadComponents();

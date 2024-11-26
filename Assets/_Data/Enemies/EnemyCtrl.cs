@@ -4,8 +4,11 @@ using UnityEngine.AI;
 public class EnemyCtrl : ExtendBehaviour
 {
     [SerializeField] protected NavMeshAgent _agent;
+    public NavMeshAgent Agent => _agent;
     [SerializeField] protected Collider _collider;
+    public Collider Colider => _collider;
     [SerializeField] protected Rigidbody _rb;
+    public Rigidbody Rigidbody => _rb;
 
     protected override void LoadComponents()
     {

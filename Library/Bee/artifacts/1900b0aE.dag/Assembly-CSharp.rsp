@@ -358,6 +358,7 @@
 "Assets/_Data/Bullets/SphereSpawner.cs"
 "Assets/_Data/Enemies/EnemyAppear.cs"
 "Assets/_Data/Enemies/EnemyCtrl.cs"
+"Assets/_Data/Enemies/EnemyMove.cs"
 "Assets/_Data/Enemies/EnemySpawner.cs"
 "Assets/_Data/Scripts/ExtendBehaviour.cs"
 "Assets/_Data/Scripts/GeneralSingleton.cs"
