@@ -350,8 +350,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"E:/2022.3.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/2022.3.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/EnemySpawnCtrl.cs"
-"Assets/MapCtrl.cs"
 "Assets/_Data/backup/BulletCtrl.cs"
 "Assets/_Data/backup/BulletMovement.cs"
 "Assets/_Data/backup/BulletSpawner.cs"
@@ -368,7 +366,11 @@
 "Assets/_Data/backup/Shooter.cs"
 "Assets/_Data/backup/SphereSpawner.cs"
 "Assets/_Data/backup/Target.cs"
+"Assets/_Data/Scripts/CheckPoint_Ctrl.cs"
 "Assets/_Data/Scripts/DetectSystem.cs"
+"Assets/_Data/Scripts/EnemySpawnCtrl.cs"
+"Assets/_Data/Scripts/MapCtrl.cs"
+"Assets/_Data/Scripts/MinionMovement.cs"
 -langversion:9.0
 /deterministic
 /optimize+

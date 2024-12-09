@@ -61,20 +61,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Data\backup\Scripts\SpawnCtrl.cs" />
+    <Compile Include="Assets\_Data\Scripts\EnemySpawnCtrl.cs" />
     <Compile Include="Assets\_Data\backup\Shooter.cs" />
     <Compile Include="Assets\_Data\backup\BulletMovement.cs" />
+    <Compile Include="Assets\_Data\Scripts\MinionMovement.cs" />
     <Compile Include="Assets\_Data\backup\Scripts\SpawnCtrlList.cs" />
     <Compile Include="Assets\_Data\backup\Scripts\GeneralSingleton.cs" />
     <Compile Include="Assets\_Data\backup\EnemySpawner.cs" />
     <Compile Include="Assets\_Data\Scripts\DetectSystem.cs" />
-    <Compile Include="Assets\EnemySpawnCtrl.cs" />
+    <Compile Include="Assets\_Data\Scripts\MapCtrl.cs" />
     <Compile Include="Assets\_Data\backup\EnemyAppear.cs" />
     <Compile Include="Assets\_Data\backup\BulletCtrl.cs" />
     <Compile Include="Assets\_Data\backup\Scripts\ExtendBehaviour.cs" />
-    <Compile Include="Assets\MapCtrl.cs" />
     <Compile Include="Assets\_Data\backup\EnemyCtrl.cs" />
     <Compile Include="Assets\_Data\backup\SphereSpawner.cs" />
     <Compile Include="Assets\_Data\backup\Scripts\Spawner.cs" />
+    <Compile Include="Assets\_Data\Scripts\CheckPoint_Ctrl.cs" />
     <Compile Include="Assets\_Data\backup\Target.cs" />
     <Compile Include="Assets\_Data\backup\EnemyMove.cs" />
     <Compile Include="Assets\_Data\backup\BulletSpawner.cs" />
