@@ -29,12 +29,14 @@ public class MinionMovement : MonoBehaviour
         _checkPoints = GameObject.Find("CheckPointCtrl").GetComponent<CheckPoint_Ctrl>().CheckPoints;
         _currentCheckPointIndex = 0;
         _currentCheckPoint = _checkPoints[_currentCheckPointIndex];
-        _nextCheckPoint = _checkPoints[_currentCheckPointIndex++];
+        _nextCheckPoint = _checkPoints[_currentCheckPointIndex + 1];
+        Debug.Log(_currentCheckPoint);
+        Debug.Log(_nextCheckPoint);
     }
 
     private void UpdateCheckPoint()
     {
-        if(transform.parent.position == _checkPoints[0].position || transform.parent.position == _checkPoints[_checkPoints.Length - 1].position)
+        if (transform.parent.position == _checkPoints[0].position || transform.parent.position == _checkPoints[_checkPoints.Length - 1].position)
         {
 
         }
@@ -42,10 +44,6 @@ public class MinionMovement : MonoBehaviour
 
     IEnumerator MoveThroughCheckPoints()
     {
-        if (transform.parent.position == _checkPoints[0].position || transform.parent.position == _checkPoints[_checkPoints.Length - 1].position)
-        {
-            yield return null;
-        }
         for (int i = 0; i < _checkPoints.Length; i++)
         {
             while (Vector3.Distance(transform.position, _checkPoints[i].position) > 0.1f)

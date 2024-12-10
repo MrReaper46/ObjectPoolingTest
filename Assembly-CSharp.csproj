@@ -69,6 +69,7 @@
     <Compile Include="Assets\_Data\backup\Scripts\GeneralSingleton.cs" />
     <Compile Include="Assets\_Data\backup\EnemySpawner.cs" />
     <Compile Include="Assets\_Data\Scripts\DetectSystem.cs" />
+    <Compile Include="Assets\testCoroutine.cs" />
     <Compile Include="Assets\_Data\Scripts\MapCtrl.cs" />
     <Compile Include="Assets\_Data\backup\EnemyAppear.cs" />
     <Compile Include="Assets\_Data\backup\BulletCtrl.cs" />
